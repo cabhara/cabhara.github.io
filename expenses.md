@@ -1,6 +1,6 @@
-## This can be your internal website page / project page
+## Expenses
 
-**Expenses:** Are you spending too much? Do you want to be able to track what you are spending on particular categories?
+Are you spending too much? Do you want to be able to track what you are spending on particular categories?
 
 ### 1. What do I do with the app?
 
