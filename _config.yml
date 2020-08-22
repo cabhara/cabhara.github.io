@@ -6,6 +6,10 @@ description: > # your text below (remove <br> elements if you don't need line br
   I create mobile apps, using React Native, Xcode, Android Studio and sometimes Unity. 
   <br><br>
   <a href="https://www.linkedin.com/in/cabhara/">View My LinkedIn Profile</a> 
+  <br><br>
+  <a href="https://apps.apple.com/us/developer/christina-bharara/id325350531">My personal iOS apps</a>
+  <br><br>
+  <a href="https://play.google.com/store/apps/dev?id=6063180645200960818">My personal Android apps</a>
   
 theme: jekyll-theme-minimal
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
