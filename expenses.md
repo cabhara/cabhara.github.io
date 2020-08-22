@@ -10,9 +10,9 @@ With the Expenses App, you can easily track your expenses.
 
 See how much you spend - you might up spending less money or money on the right things once you see your expenses report.
 
-### 3. What is so special
+### 3. What is so special about the app?
 
-Reports, images, ability to export and share.
+See reports, save expenses with images, ability to export and share.
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 <!-- For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/). -->
