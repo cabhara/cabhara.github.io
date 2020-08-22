@@ -31,7 +31,7 @@
 
 coming soon:
 <br>
-[Track My Expenses](/pages/expenses.md)
+[Track My Expenses](/expenses.md)
 <br>
 Track your expenses - categorize, add images, view reports, reduce spending!
 ---
