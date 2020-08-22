@@ -1,35 +1,38 @@
-## Portfolio
+## Portfolio of Personal Apps
 
 ---
 
 ### Hindi Language Apps 
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Learn Hindi (iOS)](https://apps.apple.com/us/app/id325350528)
+<img src="images/learnhindi_screenshots.png"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Hindi Letters (iOS)](https://apps.apple.com/us/app/hindi-letters-devanagari/id1229546427)
+[Hindi Letters (Android)](https://play.google.com/store/apps/details?id=com.cabhara.hindiletters)
+<img src="images/hindiletters_screenshots.png"/>
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-
-### Category Name 2
-
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+[Stories in Hindi and English (iOS)](https://apps.apple.com/us/app/stories-in-hindi-and-english/id1458575435)
+[Stories in Hindi and English (Android)](https://play.google.com/store/apps/details?id=com.cabhara.hindistories)
+<img src="images/hindistories_screenshots.png"/>
 
 ---
 
+### Other Apps
+
+---
+[Grimm Brothers' Fairy Tales - English and German (iOS)](http://example.com/)
+<img src="images/grimms_screenshots.png"/>
+
+coming soon:
+- [Track My Expenses](http://example.com/)
+
+---
+
 
 
 
 ---
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
+<p style="font-size:9px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
 <!-- Remove above link if you don't want to attibute -->
