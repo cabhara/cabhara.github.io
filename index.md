@@ -5,7 +5,7 @@
 ### Hindi Language Apps 
 
 [Learn Hindi (iOS)](https://apps.apple.com/us/app/id325350528)
-<img src="images/learnhindi_screenshots.png"/>
+<img src="images/learnhindi_screenshots.png"/>(https://apps.apple.com/us/app/id325350528)
 
 ---
 [Hindi Letters (iOS)](https://apps.apple.com/us/app/hindi-letters-devanagari/id1229546427)
