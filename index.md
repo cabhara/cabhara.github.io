@@ -7,6 +7,10 @@
 ## Portfolio of Personal Apps
 
 ---
+**Personal Spending Tracker** [(Link to iOS App)](https://apps.apple.com/us/app/personal-spending-tracker/id1539348334)
+[(Link to Android App)](https://play.google.com/store/apps/details?id=com.cabhara.expenses)
+[<img src="images/expenses_screenshots.png"/>](https://apps.apple.com/us/app/personal-spending-tracker/id1539348334)
+---
 
 ### Hindi Language Apps 
 
