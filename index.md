@@ -9,6 +9,7 @@
 ---
 **Personal Spending Tracker** [(Link to iOS App)](https://apps.apple.com/us/app/personal-spending-tracker/id1539348334)
 [(Link to Android App)](https://play.google.com/store/apps/details?id=com.cabhara.expenses)
+Track your personal expenses, see trends and reports.
 [<img src="images/expenses_screenshots.png"/>](https://apps.apple.com/us/app/personal-spending-tracker/id1539348334)
 ---
 
@@ -36,11 +37,6 @@
 [(Link to Android App)](https://play.google.com/store/apps/details?id=com.cabhara.grimms)
 [<img src="images/grimms_screenshots.png"/>](https://play.google.com/store/apps/details?id=com.cabhara.grimms)
 
-coming soon:
-<br>
-[Track My Expenses](/expenses.md)
-<br>
-Track your expenses - categorize, add images, view reports, reduce spending!
 ---
 
 
